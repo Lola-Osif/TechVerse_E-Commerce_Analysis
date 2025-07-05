@@ -5,7 +5,7 @@ Elist is an e-commerce company that specialises in electronics products includin
 ### Project Goals
 Elist is prioritising the analysis of its underutilised dataset comprising orders, order statuses, customers, products, and geographic data with an aim to identify opportunities that help cross-functional teams including  finance, sales, product and marketing to improve business performance and drive data-informed decision-making. The insights generated will be beneficial in providing actionable next steps to support growth within a competitive landscape.
 
-The Entity Relationship Diagram can be found here
+The Entity Relationship Diagram can be found [here](ERD.png)
 
 # Executive Summary
 **From 2019  to 2022, Elist total sales is valued at $28M with an average order value (AOV) of $260 per customer from 108K orders across all years**.
