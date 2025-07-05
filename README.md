@@ -27,6 +27,19 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 -  **Focusing on the peak sales year in 2020, March was the the primary driver of with a 50% surge in sales compared to the previous month**. The uniformity of this trend across all regions suggests that it was driven by the height of the COVID-19 crisis, where restrictions and shifts to remote work environments stimulated increased purchases of electronic devices.
 
 ## Product Trends
+- Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand.
+  
+- **From a brand perspective, Apple dominates across product categories**,driven by Airpods headphones and macbook laptops
+  - **Apple Headphones** lead in order volume with over **48,000 units sold** despite a lower AOV of $160.
+  - **MacBook Laptops** yielded the highest customer spend with an **AOV of $1,588** and total revenue of $6.3M.
+  - **Conversely, Apple iPhones underperform relative to other Apple products**, contributing second-lowest total sales volume with only 288 orders across the four years, **albeit an average customer spend of $740, which is 3times the overall product average**. A cross-selling strategy could be effective in driving iPhone uptake by leveraging existing demand for other Apple products.
+
+- Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
+
+
+
+
+
 ### Global reach
 
 ## Loyalty Program
