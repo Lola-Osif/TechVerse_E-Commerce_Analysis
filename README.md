@@ -1,4 +1,4 @@
-# Elist_Analysis
+# Elist_Sales_Analysis
 # Company Profile
 Elist is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
