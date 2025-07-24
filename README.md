@@ -1,4 +1,4 @@
-# Elist_Sales_Analysis
+# Elist_Analysis
 # Company Profile
 Elist is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
@@ -27,20 +27,22 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 -  **Focusing on the peak sales year in 2020, March was the the primary driver of with a 50% surge in sales compared to the previous month**. The uniformity of this trend across all regions suggests that it was driven by the height of the COVID-19 crisis, where restrictions and shifts to remote work environments stimulated increased purchases of electronic devices.
 
 ## Product Trends
-- Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand.
+- Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. MacBook laptops and Apple headphones rank as the second and third top-performing products.
   
 - **From a brand perspective, Apple dominates across product categories**,driven by Airpods headphones and macbook laptops
   - **Apple Headphones** lead in order volume with over **48,000 units sold** despite a lower AOV of $160.
   - **MacBook Laptops** yielded the highest customer spend with an **AOV of $1,588** and total revenue of $6.3M.
-  - **Conversely, Apple iPhones underperform relative to other Apple products**, contributing second-lowest total sales volume with only 288 orders across the four years, **albeit an average customer spend of $740, which is 3times the overall product average**. A cross-selling strategy could be effective in driving iPhone uptake by leveraging existing demand for other Apple products.
+  - **Conversely, Apple iPhones underperform relative to other Apple products**, contributing second-lowest total sales volume with only 288 orders across the four years, **albeit an average customer spend of $740, which is 3times the overall product average**. Further analysis shows that Apple iPhones have only one unique product_id, while other Apple products have at least five. This suggests limited iPhone model variety in stock. Expanding the iPhone selection range and implementing cross-selling with high-demand Apple products could improve iPhone sales performance.
 
 - Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
 
 
 
-
-
 ### Global reach
+- North America leads in the regional sgementation analysis contributing $14.5 million and 56,000 orders which represent 52% of total sales and total orders respectively.
+- The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However, in contrast to the overall ranking, the demand for airpods outweighs macbook in EMEA and North America.
+-Notably, APAC's average customer spend rose from the lowest among all regions in 2019 to the highest from 2020 onwards. In 2019, APAC customers spent an average of $212. This jumped to $317 in 2020 and has stayed above the average AOV through 2022, this trend is driven by a five fold increase in purchases of premium Apple products and improved customer loyalty rates.
+
 
 ## Loyalty Program
 ## Refund Rates
