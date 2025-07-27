@@ -44,7 +44,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However, Apple headphones outperform MacBooks in EMEA and North America, deviating from the overall global product ranking.
 -APAC has shown the most significant growth in customer spend. The average customer spend rose from the lowest ($212) among all regions in 2019 to the highest($317) from 2020 onwards, consistently exceeding the global average through 2022. This trend is driven by increased laptop purchases and improved operational efficiences 
   - In 2020, APAC saw a five fold increase in purchases of Macbook laptops and 3.6times in Thinkpad laptops products which drove the spike in sales boom and AOV.
-  - Operational improvements further supported this growth as APAC had the largest shifts in logistics metrics across all regions by reducing its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days.
+  - Operational improvements supported this growth as APAC had the largest shifts in logistics metrics across all regions, reducing its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days.
   
 
 
