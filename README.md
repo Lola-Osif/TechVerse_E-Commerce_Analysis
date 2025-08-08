@@ -43,13 +43,30 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 - Gaming monitors, MacBooks, and Apple Headphones collectively drive over 75% of sales across all regions.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However, Apple headphones outperform MacBooks in EMEA and North America, deviating from the overall global product ranking.
 -APAC has shown the most significant growth in customer spend. The average customer spend rose from the lowest ($212) among all regions in 2019 to the highest($317) from 2020 onwards, consistently exceeding the global average through 2022. This trend is driven by increased laptop purchases and improved operational efficiences 
-  - In 2020, APAC saw a five fold increase in purchases of Macbook laptops and 3.6times in Thinkpad laptops products which drove the spike in sales boom and AOV.
+  - In 2020, APAC saw a five fold increase in purchases of Macbook laptops and 3.6times in Thinkpad laptops products which drove the spike in total sales and AOV.
   - Operational improvements supported this growth as APAC had the largest shifts in logistics metrics across all regions, reducing its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days.
+  
   
 
 
-
 ## Loyalty Program
+
+
 ## Refund Rates
+
+
 ## Recommendations
+
+- Leverage heavy Apple product offering in order to seek closer ties (preferred agreements) with distributors and also obtain volume-based discounts to ensure availability of stock and superior pricing, benefiting both the company’s profit margins and the customer base.
+Add additional Samsung products to the offering, the company already sells Samsung accessories (webcams and charging cables) and is missing out on anchor products to further increase sales in these product lines.
+Discount, eliminate, and replace Bose SoundSport Headphones from product offering. Investigate reasons for poor performance and apply findings to next product selection.
+Place benchmarks on operational performance in line with industry standards to effectively assess the current position.
+
+Investigate reasons for high performance of direct market channel and apply findings to the social media, email, and affiliate channels.
+Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
+
+Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
+
+Top players in the APAC region  Japan, Australia and India
+
 
