@@ -40,16 +40,21 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ### Global reach
 - North America leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
-- Gaming monitors, MacBooks, and Apple Headphones collectively drive over 75% of sales across all regions.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However, Apple headphones outperform MacBooks in EMEA and North America, deviating from the overall global product ranking.
 -APAC has shown the most significant growth in customer spend. The average customer spend rose from the lowest ($212) among all regions in 2019 to the highest($317) from 2020 onwards, consistently exceeding the global average through 2022. This trend is driven by increased laptop purchases and improved operational efficiences 
   - In 2020, APAC saw a five fold increase in purchases of Macbook laptops and 3.6times in Thinkpad laptops products which drove the spike in total sales and AOV.
-  - Operational improvements supported this growth as APAC had the largest shifts in logistics metrics across all regions, reducing its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days.
+  - Operational improvements supported this growth as APAC had the largest gains in logistics metrics across all regions, cutting its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days. These results underscore the region’s agility and rebound from COVID-19 constraints.
   
   
 
 
 ## Loyalty Program
+To assess the impact of Elist's loyalty program, non-loyalty and loyalty members where compared across sales, AOV and the number of repeated purchases.
+- Sales: Non-loyalty members generated more sales revenue from 2019 to 2020 reaching a peak of 788K in September 2020, followed by a steep decline in 2021 & 2022. Loyalty customers outperformed non-loyalty customers in 2021 ans 2022. Loyalty sales share has risen from 11% to 41% across the four years, indicating stronger retention compared to non-loyalty customers.
+- AOV: Loyal customers spend increased by 93% in 2019  and  remained fairly consistent ($200-$250) despite fluctuations in sales in 2021 and 2022. Contrastly, non-loyalty members show a volume driven trend with spikes corresponding to sales.
+
+- Repeated purchases:
+
 
 
 ## Refund Rates
@@ -60,7 +65,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 - Leverage heavy Apple product offering in order to seek closer ties (preferred agreements) with distributors and also obtain volume-based discounts to ensure availability of stock and superior pricing, benefiting both the company’s profit margins and the customer base.
 Add additional Samsung products to the offering, the company already sells Samsung accessories (webcams and charging cables) and is missing out on anchor products to further increase sales in these product lines.
 Discount, eliminate, and replace Bose SoundSport Headphones from product offering. Investigate reasons for poor performance and apply findings to next product selection.
-Place benchmarks on operational performance in line with industry standards to effectively assess the current position.
+- Evaluate operational performance against industry benchmarks to accurately determine Elist's current position and identify opportunities to improve customer experience.
 
 Investigate reasons for high performance of direct market channel and apply findings to the social media, email, and affiliate channels.
 Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
