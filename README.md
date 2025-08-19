@@ -55,14 +55,9 @@ To assess the impact of Elist's loyalty program, non-loyalty and loyalty members
 - AOV: Loyal customers spend increased by 93% from march to Septembr 2019  and remained fairly consistent ($200-$250) despite fluctuations in sales in 2021 and 2022. Contrastly, non-loyalty members show a volume driven trend with spikes corresponding to sales.
 - Both loyalty and Non-loyalty sales  and AOV fall sharply in late (Oct- Dec) 2022, which may reflect broader market changes to pre-pandemic levels
 
-- Repeated purchases: Of total number of customers who placed two or more orders, 17.2K from non-loyalcustomers far exceed that of 154 loyalty customers.The difference shows that loyalty program is not attractive enough to drive repeat customers purchases.
+- Repeated purchases: Of the total registered customers, 4.5K non-loyalcustomers placed two or more orders, compared to only 154 loyalty customers.The gap shows that loyalty program is not currently influencing repeat purchases.
 
 It may need rethinking — either making it more rewarding, easier to join, or better aligned with what your natural repeat buyers actually value.
-
-
-
-## Refund Rates
-
 
 ## Recommendations
 
