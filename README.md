@@ -63,28 +63,24 @@ To assess the impact of Elist's loyalty program, non-loyalty and loyalty members
 
 ## Recommendations
 Based on the analysis, the company should implement the following recommendations 
-# Target high-performing products and optimise product portfolio
--
+### Target high-performing products and optimise product portfolio
 - Leverage Apple’s strong product portfolio to build closer partnerships with distributors, secure volume discounts and expand the range and model of apple devices, particulatly iphones, to ensure a resilient supply chain and steady stock with competitive pricing. This approach will enhances the company's profit margins and delivers greater value and choice  to customers.
 - Assess the underperformance of Bose headphones to determine whether to replace, reprice, or discontinue the product.
 
-# Implement Promotional strategies
--  Incorporate sales promotions with the established seasonal patterns to drive sales, for example end-of year sales bundles in November & December, Summer holiday sales around mid-year etc. Assess customer profiles and product demand across seasons to tailor promotions to their specific needs
--  Incorporate sales promotions into established seasonal patterns to maximize revenue opportunities. For example, end-of-year sales bundles in November and December and introduce summer holiday promotions around mid-year. Customer profiles and seasonal demand trends should be further investigated to ensure these campaigns are tailored to buyer needs and deliver stronger conversion rates.
+### Implement Promotional strategies
+-  Incorporate sales promotions into established seasonal patterns to maximize revenue opportunities. For example, end-of-year sales bundles in November and December and introduce summer holiday promotions around mid-year. Customer profiles and seasonal demand trends should be further investigated to ensure these campaigns are tailored to the customers needs and deliver stronger conversion rates.
 - Additionally, implement cross-sell strategies by recommending complementary products, bundling high-demand items with accessories and providing service support packages to increase the revenue per customer.
 
-
-# Accelerate Growth in APAC region:
+### Accelerate Growth in APAC region:
 - APAC’s high customer spend and operational efficiency makes it a high-potential market. Starting with the region’s leading players—Japan, Australia, and India—marketing efforts should be scaled up, supported by expanded laptop inventory and localized promotions, with a focus on MacBook and ThinkPad models.
 
 - Further investment in logistics excellence is recommended, as prior shipping improvements have already enhanced customer satisfaction; faster delivery could become a key competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing and assembly hub for premium electronic devices.
 
-# Augument and monitor Loyalty Program
+### Augument and monitor Loyalty Program
   :Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
 It may need rethinking — either making it more rewarding, easier to join, or better aligned with what your natural repeat buyers actually value.
 Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
 
 
-Investigate reasons for high performance of direct market channel and apply findings to the social media, email, and affiliate channels.
 caveat
 - profit
