@@ -74,13 +74,13 @@ Based on the analysis, the company should implement the following recommendation
 ### Accelerate Growth in APAC region:
 - APAC’s high customer spend and operational efficiency makes it a high-potential market. Starting with the region’s leading players—Japan, Australia, and India—marketing efforts should be scaled up, supported by expanded laptop inventory and localized promotions, with a focus on MacBook and ThinkPad models.
 
-- Further investment in logistics excellence is recommended, as prior shipping improvements have already enhanced customer satisfaction; faster delivery could become a key competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing and assembly hub for premium electronic devices.
+- Evaluating industry benchmarks and investing in logistics to position faster, more reliable delivery as a competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing hub for premium electronic devices, enabling cost-efficient supply chains and quicker time-to-market.
 
 ### Augument and monitor Loyalty Program
-  :Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
+- Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
 It may need rethinking — either making it more rewarding, easier to join, or better aligned with what your natural repeat buyers actually value.
 Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
 
 
-caveat
+### caveat
 - profit
