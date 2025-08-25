@@ -55,22 +55,36 @@ To assess the impact of Elist's loyalty program, non-loyalty and loyalty members
 - AOV: Loyal customers spend increased by 93% from march to Septembr 2019  and remained fairly consistent ($200-$250) despite fluctuations in sales in 2021 and 2022. Contrastly, non-loyalty members show a volume driven trend with spikes corresponding to sales.
 - Both loyalty and Non-loyalty sales  and AOV fall sharply in late (Oct- Dec) 2022, which may reflect broader market changes to pre-pandemic levels
 
-- Repeated purchases: Of the total registered customers, 4.5K non-loyalcustomers placed two or more orders, compared to only 154 loyalty customers.The gap shows that loyalty program is not currently influencing repeat purchases.
+- Repeated purchases: Of all registered customers, 70,000 made a single purchase while 4,600 placed multiple orders. Notably, 4,500 of these repeat purchasers were non-loyalty customers, compared to only 154 loyalty members. This gap highlights that the current loyalty program is not influencing repeat purchases.
 
-It may need rethinking — either making it more rewarding, easier to join, or better aligned with what your natural repeat buyers actually value.
+
+
+
 
 ## Recommendations
+Based on the analysis, the company should implement the following recommendations 
+# Target high-performing products and optimise product portfolio
+-
+- Leverage Apple’s strong product portfolio to build closer partnerships with distributors, secure volume discounts and expand the range and model of apple devices, particulatly iphones, to ensure a resilient supply chain and steady stock with competitive pricing. This approach will enhances the company's profit margins and delivers greater value and choice  to customers.
+- Assess the underperformance of Bose headphones to determine whether to replace, reprice, or discontinue the product.
 
-- Leverage heavy Apple product offering in order to seek closer ties (preferred agreements) with distributors and also obtain volume-based discounts to ensure availability of stock and superior pricing, benefiting both the company’s profit margins and the customer base.
-Add additional Samsung products to the offering, the company already sells Samsung accessories (webcams and charging cables) and is missing out on anchor products to further increase sales in these product lines.
-Discount, eliminate, and replace Bose SoundSport Headphones from product offering. Investigate reasons for poor performance and apply findings to next product selection.
-- Evaluate operational performance against industry benchmarks to accurately determine Elist's current position and identify opportunities to improve customer experience.
+# Implement Promotional strategies
+-  Incorporate sales promotions with the established seasonal patterns to drive sales, for example end-of year sales bundles in November & December, Summer holiday sales around mid-year etc. Assess customer profiles and product demand across seasons to tailor promotions to their specific needs
+-  Incorporate sales promotions into established seasonal patterns to maximize revenue opportunities. For example, end-of-year sales bundles in November and December and introduce summer holiday promotions around mid-year. Customer profiles and seasonal demand trends should be further investigated to ensure these campaigns are tailored to buyer needs and deliver stronger conversion rates.
+- Additionally, implement cross-sell strategies by recommending complementary products, bundling high-demand items with accessories and providing service support packages to increase the revenue per customer.
 
-Investigate reasons for high performance of direct market channel and apply findings to the social media, email, and affiliate channels.
-Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
 
+# Accelerate Growth in APAC region:
+- APAC’s high customer spend and operational efficiency makes it a high-potential market. Starting with the region’s leading players—Japan, Australia, and India—marketing efforts should be scaled up, supported by expanded laptop inventory and localized promotions, with a focus on MacBook and ThinkPad models.
+
+- Further investment in logistics excellence is recommended, as prior shipping improvements have already enhanced customer satisfaction; faster delivery could become a key competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing and assembly hub for premium electronic devices.
+
+# Augument and monitor Loyalty Program
+  :Continue and augment the loyalty programme – clarify and augment the benefits to include faster delivery guarantees, early access to deals, and exclusive discounts.
+It may need rethinking — either making it more rewarding, easier to join, or better aligned with what your natural repeat buyers actually value.
 Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
 
-Top players in the APAC region  Japan, Australia and India
 
-
+Investigate reasons for high performance of direct market channel and apply findings to the social media, email, and affiliate channels.
+caveat
+- profit
