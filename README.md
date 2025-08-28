@@ -64,7 +64,7 @@ To assess the impact of Elist's loyalty program, non-loyalty and loyalty members
 ## Recommendations
 Based on the analysis, the company should implement the following recommendations 
 ### Target high-performing products and optimise product portfolio
-- Leverage Apple’s strong product portfolio to build closer partnerships with distributors, secure volume discounts and expand the range and model of apple devices, particulatly iphones, to ensure a resilient supply chain and steady stock with competitive pricing. This approach will enhances the company's profit margins and delivers greater value and choice  to customers.
+- Leverage Apple’s strong product portfolio to build closer partnerships with distributors, secure volume discounts and expand the range and model of apple devices, particulatly iphones, to ensure a resilient supply chain and steady stock with competitive pricing. This approach will enhance the company's profit margins and delivers greater value and choice  to customers.
 - Assess the underperformance of Bose headphones to determine whether to replace, reprice, or discontinue the product.
 
 ### Implement Promotional strategies
@@ -77,7 +77,7 @@ Based on the analysis, the company should implement the following recommendation
 - Evaluating industry benchmarks and investing in logistics to position faster, more reliable delivery as a competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing hub for premium electronic devices, enabling cost-efficient supply chains and quicker time-to-market.
 
 ### Augument and monitor Loyalty Program
-- With a growing share of loyalty members and an average order value (AOV) steady at around $250, the loyalty program remains worthwhile, though it should be monitored closely and subjected to regular cost–benefit analysis over the next few years.
+- With a growing share of loyalty members and an average order value (AOV) steady at around $250, the loyalty program should be continued, though it should be monitored closely and subjected to regular cost–benefit analysis over the next few years.
 - The program’s offerings should be enhanced to provide greater rewards that align with the products most valued by repeat customers.
 
 ### caveat
