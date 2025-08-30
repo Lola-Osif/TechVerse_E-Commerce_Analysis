@@ -26,7 +26,11 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 -  The seasonal trends reveals customers purchase patterns and can be leveraged to optimize product launches and targeted advertising efforts, thereby driving additional sales.
 -  **Focusing on the peak sales year in 2020, March was the the primary driver of with a 50% surge in sales compared to the previous month**. The uniformity of this trend across all regions suggests that it was driven by the height of the COVID-19 crisis, where restrictions and shifts to remote work environments stimulated increased purchases of electronic devices.
 
+
 ## Product Trends
+
+<img width="1068" height="356" alt="Screenshot 2025-08-30 at 7 10 54 am" src="https://github.com/user-attachments/assets/d1fb806e-f9a6-4b5b-ab24-4d48d2e09d50" />
+
 - Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. MacBook laptops and Apple headphones rank as the second and third top-performing products.
   
 - **From a brand perspective, Apple dominates across product categories**,driven by Airpods headphones and macbook laptops
