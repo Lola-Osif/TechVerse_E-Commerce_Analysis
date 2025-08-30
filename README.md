@@ -29,7 +29,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ## Product Trends
 
-<img width="1068" height="356" alt="Screenshot 2025-08-30 at 7 10 54 am" src="https://github.com/user-attachments/assets/d1fb806e-f9a6-4b5b-ab24-4d48d2e09d50" />
+ <img width="1052" height="349" alt="Screenshot 2025-08-30 at 7 28 17 am" src="https://github.com/user-attachments/assets/faf704cd-ce78-461c-8382-0391dc83fd89" />
 
 - Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. MacBook laptops and Apple headphones rank as the second and third top-performing products.
   
