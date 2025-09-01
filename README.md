@@ -8,6 +8,9 @@ Elist is prioritising the analysis of its underutilised dataset comprising order
 The Entity Relationship Diagram can be found [here](ERD.png)
 
 # Executive Summary
+
+  <img width="1078" height="611" alt="Screenshot 2025-09-01 at 9 08 49 am" src="https://github.com/user-attachments/assets/e7c87065-5ce6-4641-9504-8fb877541de0" />
+
 **From 2019  to 2022, Elist total sales is valued at $28M with an average order value (AOV) of $260 per customer from 108K orders across all years**.
 Within the four year period, the number of orders and sales volume grew by 28% respectively.
 
