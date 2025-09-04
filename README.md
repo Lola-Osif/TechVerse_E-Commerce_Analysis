@@ -38,9 +38,9 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
    <img width="1052" height="349" alt="Screenshot 2025-08-30 at 7 28 17 am" src="https://github.com/user-attachments/assets/faf704cd-ce78-461c-8382-0391dc83fd89" />
 
-- Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. MacBook laptops and Apple headphones rank as the second and third top-performing products.
+- Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
   
-- **From a brand perspective, Apple dominates across product categories**,driven by Airpods headphones and macbook laptops
+- **From a brand perspective, Apple dominates across product categories**,driven by headphones and macbook laptops
   - **Apple Headphones** lead in order volume with over **48,000 units sold** despite a lower AOV of $160.
   - **MacBook Laptops** yielded the highest customer spend with an **AOV of $1,588** and total revenue of $6.3M.
   - **Conversely, Apple iPhones underperform relative to other Apple products**, contributing second-lowest total sales volume with only 288 orders across the four years, **albeit an average customer spend of $740, which is 3times the overall product average**. Further analysis shows that Apple iPhones have only one unique product_id, while other Apple products have at least five. This suggests limited iPhone model variety in stock. Expanding the iPhone selection range and implementing cross-selling with high-demand Apple products could improve iPhone sales performance.
@@ -51,7 +51,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ### Global reach
 - North America leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
-- The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However, Apple headphones outperform MacBooks in EMEA and North America, deviating from the overall global product ranking.
+- The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However,MacBooks outperform Apple headphones in APAC and LATAM compared to the overall global product ranking.
 -APAC has shown the most significant growth in customer spend. The average customer spend rose from the lowest ($212) among all regions in 2019 to the highest($317) from 2020 onwards, consistently exceeding the global average through 2022. This trend is driven by increased laptop purchases and improved operational efficiences 
   - In 2020, APAC saw a five fold increase in purchases of Macbook laptops and 3.6times in Thinkpad laptops products which drove the spike in total sales and AOV.
   - Operational improvements supported this growth as APAC had the largest gains in logistics metrics across all regions, cutting its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days. These results show the region’s agility and rebound from COVID-19 constraints.
