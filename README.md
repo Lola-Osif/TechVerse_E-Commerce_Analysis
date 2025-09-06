@@ -9,10 +9,6 @@ The Entity Relationship Diagram can be found [here](ERD.png)
 
 # Executive Summary
 
-  <img width="872" height="535" alt="Screenshot 2025-09-01 at 9 45 30 am" src="https://github.com/user-attachments/assets/2d88d679-4e3f-4dcd-a737-bbb8adf3bdf3" />
-
-
-
   <img width="1078" height="611" alt="Screenshot 2025-09-01 at 9 08 49 am" src="https://github.com/user-attachments/assets/e7c87065-5ce6-4641-9504-8fb877541de0" />
 
 **From 2019  to 2022, Elist total sales is valued at $28M with an average order value (AOV) of $260 per customer from 108K orders across all years**.
@@ -80,7 +76,7 @@ Based on the analysis, the company should implement the following recommendation
 - Additionally, implement cross-sell strategies by recommending complementary products, bundling high-demand items with accessories and providing service support packages to increase the revenue per customer.
 
 ### Accelerate Growth in APAC region:
-- APAC’s high customer spend and operational efficiency makes it a high-potential market. Starting with the region’s leading players—Japan, Australia, and India—marketing efforts should be scaled up, supported by expanded laptop inventory and localized promotions, with a focus on MacBook and ThinkPad models.
+- APAC’s high customer spend and operational efficiency makes it a high-potential market. Marketing efforts and localized promotions should be scaled up starting with the region’s leading players, Japan and India, supported by expanded laptop inventory/ models.
 
 - Evaluating industry benchmarks and investing in logistics to position faster, more reliable delivery as a competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing hub for premium electronic devices, enabling cost-efficient supply chains and quicker time-to-market.
 
