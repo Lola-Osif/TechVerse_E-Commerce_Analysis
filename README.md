@@ -2,13 +2,11 @@
 
  <img width="1070" height="297" alt="image" src="https://github.com/user-attachments/assets/97bd4800-69b3-4e30-b2e2-f2946e586d9f" />
 
- <img width="1070" height="297" alt="image" src="https://github.com/user-attachments/assets/2eb34b8d-ab82-4244-a7ba-c5f9d14d1a18" />
 
-
-Elist is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
+TechServe is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
 ### Project Goals
-Elist is prioritising the analysis of its underutilised dataset comprising orders, order statuses, customers, products, and geographic data with an aim to identify opportunities that help cross-functional teams including  finance, sales, product and marketing to improve business performance and drive data-informed decision-making. The insights generated will be beneficial in providing actionable next steps to support growth within a competitive landscape.
+TechServe is prioritising the analysis of its underutilised dataset comprising orders, order statuses, customers, products, and geographic data with an aim to identify opportunities that help cross-functional teams including  finance, sales, product and marketing to improve business performance and drive data-informed decision-making. The insights generated will be beneficial in providing actionable next steps to support growth within a competitive landscape.
 
 The Entity Relationship Diagram can be found [here](ERD.png)
 
@@ -16,7 +14,7 @@ The Entity Relationship Diagram can be found [here](ERD.png)
 
   <img width="1078" height="611" alt="Screenshot 2025-09-01 at 9 08 49 am" src="https://github.com/user-attachments/assets/e7c87065-5ce6-4641-9504-8fb877541de0" />
 
-**From 2019  to 2022, Elist total sales is valued at $28M with an average order value (AOV) of $260 per customer from 108K orders across all years**.
+**From 2019  to 2022, TechServe total sales is valued at $28M with an average order value (AOV) of $260 per customer from 108K orders across all years**.
 Within the four year period, the number of orders and sales volume grew by 28% respectively.
 
 - **Notably, 2020 had the the highest values in sales revenue ($10M), average order value ($300) and order quantity(34K)**. This sales boom, representing a twofold increase from the previous year, reflects a change in consumer's purchasing pattern to online ordering during the COVID pandemic.
@@ -39,7 +37,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
    <img width="1052" height="349" alt="Screenshot 2025-08-30 at 7 28 17 am" src="https://github.com/user-attachments/assets/faf704cd-ce78-461c-8382-0391dc83fd89" />
 
-- Of Elist’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
+- Of TechServe’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
   
 - **From a brand perspective, Apple dominates across product categories**,driven by headphones and macbook laptops
   - **Apple Headphones** lead in order volume with over **48,000 units sold** despite a lower AOV of $160.
@@ -61,7 +59,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 
 ## Loyalty Program
-To assess the impact of Elist's loyalty program, non-loyalty and loyalty members where compared across sales, AOV and the number of repeated purchases.
+To assess the impact of TechServe's loyalty program, non-loyalty and loyalty members where compared across sales, AOV and the number of repeated purchases.
 - Sales: Non-loyalty members generated more sales revenue from 2019 to 2020 reaching a peak of $788K in September 2020. However, sales from loyalty customers outperformed non-loyalty customers in 2021 and 2022 with a maximum revenue of 508K in December 2021. Although the total sales amount from non-loyalty customers exceed loyalty cusomers , loyalty sales share has risen from 11% to 41% over the four-year period, indicating stronger retention compared to non-loyalty customers.
   
 - AOV: Loyal customers spend increased by 93% from march to Septembr 2019  and remained fairly consistent ($200-$250) despite fluctuations in sales in 2021 and 2022. Contrastly, non-loyalty members show a volume driven trend with spikes corresponding to sales.
@@ -89,6 +87,3 @@ Based on the analysis, the company should implement the following recommendation
 - With a growing share of loyalty members and an average order value (AOV) steady at around $250, the loyalty program should be continued, though it should be monitored closely and subjected to regular cost–benefit analysis over the next few years.
 - The program’s offerings should be enhanced to provide greater rewards that align with the products most valued by repeat customers.
 
-### caveat
-- profit
-- recent years analysis 
