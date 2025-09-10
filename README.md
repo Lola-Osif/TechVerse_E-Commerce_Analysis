@@ -2,6 +2,9 @@
 
  <img width="1070" height="297" alt="image" src="https://github.com/user-attachments/assets/97bd4800-69b3-4e30-b2e2-f2946e586d9f" />
 
+ <img width="1070" height="297" alt="image" src="https://github.com/user-attachments/assets/2eb34b8d-ab82-4244-a7ba-c5f9d14d1a18" />
+
+
 Elist is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
 ### Project Goals
