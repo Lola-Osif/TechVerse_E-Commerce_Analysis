@@ -2,6 +2,9 @@
 
  <img width="1070" height="297" alt="image" src="https://github.com/user-attachments/assets/97bd4800-69b3-4e30-b2e2-f2946e586d9f" />
 
+  <img width="673" height="158" alt="image" src="https://github.com/user-attachments/assets/2da78d4f-1d0f-4f44-a6f9-fd0e0818ca0d" />
+
+
 
 TechServe is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
