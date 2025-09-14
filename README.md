@@ -1,6 +1,6 @@
 # Company Profile
 
-  <img width="514" height="158" alt="image" src="https://github.com/user-attachments/assets/2ea11bad-fb35-4242-897d-92ef5e3b5ba2" />
+<img width="514" height="158" alt="image" src="https://github.com/user-attachments/assets/2ea11bad-fb35-4242-897d-92ef5e3b5ba2" />
 
 TechVerse is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
@@ -45,19 +45,20 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 - Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
 
-
-
 ### Global reach
-- North America leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
+
+  <img width="829" height="460" alt="image" src="https://github.com/user-attachments/assets/9c62c366-769b-486d-bf2b-af2b30e88f69" />
+
+- North America (NA) leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However,MacBooks outperform Apple headphones in APAC and LATAM compared to the overall global product ranking.
--APAC has shown the most significant growth in customer spend. The average customer spend rose from the lowest ($212) among all regions in 2019 to the highest($317) from 2020 onwards, consistently exceeding the global average through 2022. This trend is driven by increased laptop purchases and improved operational efficiences 
+-Asia Pcific region (APAC) has shown the most significant growth in customer spend. The average customer spend rose from the lowest ($212) among all regions in 2019 to the highest($317) from 2020 onwards, consistently exceeding the global average through 2022. This trend is driven by increased laptop purchases and improved operational efficiences 
   - In 2020, APAC saw a five fold increase in purchases of Macbook laptops and 3.6times in Thinkpad laptops products which drove the spike in total sales and AOV.
   - Operational improvements supported this growth as APAC had the largest gains in logistics metrics across all regions, cutting its average shipping time from 3 days in 2019 to under 2 days in 2022, while delivery times improved from over 8 days to 7.5 days. These results show the region’s agility and rebound from COVID-19 constraints.
   
-  
-
 
 ## Loyalty Program
+
+
 To assess the impact of TechVerse's loyalty program, non-loyalty and loyalty members where compared across sales, AOV and the number of repeated purchases.
 - Sales: Non-loyalty members generated more sales revenue from 2019 to 2020 reaching a peak of $788K in September 2020. However, sales from loyalty customers outperformed non-loyalty customers in 2021 and 2022 with a maximum revenue of 508K in December 2021. Although the total sales amount from non-loyalty customers exceed loyalty cusomers , loyalty sales share has risen from 11% to 41% over the four-year period, indicating stronger retention compared to non-loyalty customers.
   
