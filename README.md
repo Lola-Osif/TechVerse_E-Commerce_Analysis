@@ -36,9 +36,6 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
    <img width="1136" height="357" alt="Screenshot 2025-09-18 at 8 24 25 pm" src="https://github.com/user-attachments/assets/62653651-9985-412a-8d90-3735355f457d" />
 
-jkhjgh
-  <img width="855" height="281" alt="Screenshot 2025-09-18 at 8 20 03 pm" src="https://github.com/user-attachments/assets/2caf7be4-ba1f-4ff5-9577-b4c6c3b7b87f" />
-
 
 - Of TechVerse’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
   
@@ -51,8 +48,6 @@ jkhjgh
 
 ### Global reach
   <img width="769" height="458" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
-dfg
-  <img width="827" height="462" alt="image" src="https://github.com/user-attachments/assets/f59500bd-3cf5-42e8-a9a9-acd7df00b709" />
 
 - North America (NA) leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However,MacBooks outperform Apple headphones in APAC and LATAM compared to the overall global product ranking.
