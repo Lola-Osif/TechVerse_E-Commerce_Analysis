@@ -34,8 +34,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ## Product Trends
 
-   <img width="1136" height="357" alt="Screenshot 2025-09-18 at 8 24 25 pm" src="https://github.com/user-attachments/assets/62653651-9985-412a-8d90-3735355f457d" />
-
+   <img width="1136" height="400" alt="Screenshot 2025-09-18 at 8 24 25 pm" src="https://github.com/user-attachments/assets/62653651-9985-412a-8d90-3735355f457d" />
 
 - Of TechVerse’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
   
@@ -47,7 +46,8 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 - Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
 
 ### Global reach
-  <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
+
+  <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
 
 - North America (NA) leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However,MacBooks outperform Apple headphones in APAC and LATAM compared to the overall global product ranking.
