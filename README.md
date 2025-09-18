@@ -33,7 +33,10 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 
 ## Product Trends
-   
+
+   <img width="1136" height="357" alt="Screenshot 2025-09-18 at 8 24 25 pm" src="https://github.com/user-attachments/assets/62653651-9985-412a-8d90-3735355f457d" />
+
+jkhjgh
   <img width="855" height="281" alt="Screenshot 2025-09-18 at 8 20 03 pm" src="https://github.com/user-attachments/assets/2caf7be4-ba1f-4ff5-9577-b4c6c3b7b87f" />
 
 
@@ -47,7 +50,8 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 - Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
 
 ### Global reach
-
+  <img width="769" height="458" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
+dfg
   <img width="827" height="462" alt="image" src="https://github.com/user-attachments/assets/f59500bd-3cf5-42e8-a9a9-acd7df00b709" />
 
 - North America (NA) leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
