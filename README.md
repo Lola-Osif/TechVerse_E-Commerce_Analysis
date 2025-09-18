@@ -34,7 +34,8 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ## Product Trends
    
-   <img width="827" height="462" alt="image" src="https://github.com/user-attachments/assets/ecdb061e-b333-44c9-90cb-b60f4e32dfcb" />
+  <img width="855" height="281" alt="Screenshot 2025-09-18 at 8 20 03 pm" src="https://github.com/user-attachments/assets/2caf7be4-ba1f-4ff5-9577-b4c6c3b7b87f" />
+
 
 - Of TechVerse’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
   
