@@ -1,13 +1,13 @@
-# Company Profile
+# TechVerse E-Commerce Analysis
+## Company Profile
 
 <img width="514" height="158" alt="image" src="https://github.com/user-attachments/assets/2ea11bad-fb35-4242-897d-92ef5e3b5ba2" />
 
 TechVerse is an e-commerce company that specialises in electronics products including high-demand brands such as Apple, Samsung, and Lenovo. It was founded in 2018 and has since expanded to a global customer base selling through its online sales platform and mobile app. The company also uses multiple marketing channels such as email campaigns, SEO, and affiliate partnerships to reach its customers. 
 
-### Project Goals
+## Project Goals
 TechVerse is prioritising the analysis of its underutilised dataset comprising orders, order statuses, customers, products, and geographic data with an aim to identify opportunities that help cross-functional teams including  finance, sales, product and marketing to improve business performance and drive data-informed decision-making. The insights generated will be beneficial in providing actionable next steps to support growth within a competitive landscape.
 
-The Entity Relationship Diagram can be found [here](ERD.png)
 
 # Executive Summary
 
@@ -45,7 +45,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 - Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
 
-### Global reach
+## Global reach
 
   <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
 
@@ -87,3 +87,6 @@ Based on the analysis, the company should implement the following recommendation
 - With a growing share of loyalty members and an average order value (AOV) steady at around $250, the loyalty program should be continued, though it should be monitored closely and subjected to regular cost–benefit analysis over the next few years.
 - The program’s offerings should be enhanced to provide greater rewards that align with the products most valued by repeat customers.
 
+Appendix
+- For more details about the dataset, check out the[ERD](ERD.png)
+- See more of my analysis in [SQL](https://github.com/Lola-Osif/Elist_Sales_Analysis/blob/main/SQL%20Analysis.sql)
