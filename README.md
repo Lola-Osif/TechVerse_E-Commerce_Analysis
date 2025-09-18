@@ -33,8 +33,8 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 
 ## Product Trends
-
-   <img width="1052" height="349" alt="Screenshot 2025-08-30 at 7 28 17 am" src="https://github.com/user-attachments/assets/faf704cd-ce78-461c-8382-0391dc83fd89" />
+   
+   <img width="827" height="462" alt="image" src="https://github.com/user-attachments/assets/ecdb061e-b333-44c9-90cb-b60f4e32dfcb" />
 
 - Of TechVerse’s 8 core products, **the Gaming Monitor consistently leads in performance, generating $9.8M in revenue, accounting for an average of 35% of total sales.** With 23,000 orders and an AOV of $421, this product shows strong price-market fit and high demand. Apple headphones and MacBook laptops rank as second and third top-performing products.
   
@@ -47,7 +47,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ### Global reach
 
-  <img width="829" height="460" alt="image" src="https://github.com/user-attachments/assets/9c62c366-769b-486d-bf2b-af2b30e88f69" />
+  <img width="827" height="462" alt="image" src="https://github.com/user-attachments/assets/f59500bd-3cf5-42e8-a9a9-acd7df00b709" />
 
 - North America (NA) leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However,MacBooks outperform Apple headphones in APAC and LATAM compared to the overall global product ranking.
@@ -58,10 +58,10 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ## Loyalty Program
 
-
 To assess the impact of TechVerse's loyalty program, non-loyalty and loyalty members where compared across sales, AOV and the number of repeated purchases.
 - Sales: Non-loyalty members generated more sales revenue from 2019 to 2020 reaching a peak of $788K in September 2020. However, sales from loyalty customers outperformed non-loyalty customers in 2021 and 2022 with a maximum revenue of 508K in December 2021. Although the total sales amount from non-loyalty customers exceed loyalty cusomers , loyalty sales share has risen from 11% to 41% over the four-year period, indicating stronger retention compared to non-loyalty customers.
-  
+
+
 - AOV: Loyal customers spend increased by 93% from march to Septembr 2019  and remained fairly consistent ($200-$250) despite fluctuations in sales in 2021 and 2022. Contrastly, non-loyalty members show a volume driven trend with spikes corresponding to sales.
 - Both loyalty and Non-loyalty sales  and AOV fall sharply in late (Oct- Dec) 2022, which may reflect broader market changes to pre-pandemic levels
 - Purchase platform: While most customers place their orders through the website, 54% of orders made on the mobile app come from loyalty program members.
