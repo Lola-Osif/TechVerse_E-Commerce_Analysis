@@ -24,7 +24,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 # Deep-dive Insights
 
 ## Seasonality
-<img width="907" alt="Screenshot 2025-06-05 at 12 33 11 pm" src="https://github.com/user-attachments/assets/d6b962a6-6437-42c6-bae7-5e4dbd7fcaca" />
+
 
 - **Year-over-year monthly analysis show that November and December stand out as peak revenue performance periods across all years** with monthly growth rates reaching 35% and 33% respectively. This seasonal trend indicates increased  consumer demand during holiday periods,  enhanced by strategic promotional campaigns (including Black Friday deals), and increased market activity during the Q4 festive season.
 - **In contast, the weakest performing months Feburary and October with the lowest drop by 33% and 55% in 2022**.
@@ -47,7 +47,7 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 - Lastly, Bose Headphones rank lowest across all performance indicators with sales, order count, and AOV; signaling limited market traction.
 
 ### Global reach
-  <img width="769" height="458" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
+  <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/fd0a2911-fb60-423c-bcde-255abf1c973e" />
 
 - North America (NA) leads regional sales performance, generating $14.5 million in revenue and 56,000 orders which represents 52% of total sales and order volume respectively.
 - The gaming monitor,Macbook laptops and Apple headphones  account for at least 75 % of sales across all regions. However,MacBooks outperform Apple headphones in APAC and LATAM compared to the overall global product ranking.
