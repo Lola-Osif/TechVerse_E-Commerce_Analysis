@@ -93,5 +93,5 @@ Based on the analysis, the company should implement the following recommendation
 
 
 ## Appendix
-- For more details about the dataset, check out the[ERD](ERD.png)
+- For more details about the dataset, check out the [ERD](ERD.png)
 - See more of my data exploration and analysis in Excel and [SQL](https://github.com/Lola-Osif/Elist_Sales_Analysis/blob/main/SQL%20Analysis.sql)
