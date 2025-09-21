@@ -91,6 +91,7 @@ Based on the analysis, the company should implement the following recommendation
 - With a growing share of loyalty members and an average order value (AOV) steady at around $250, the loyalty program should be continued, though it should be monitored closely and subjected to regular cost–benefit analysis over the next few years.
 - The program’s offerings should be enhanced to provide greater rewards that align with the products most valued by repeat customers.
 
-Appendix
+
+### Appendix
 - For more details about the dataset, check out the[ERD](ERD.png)
 - See more of my data exploration and analysis in Excel and [SQL](https://github.com/Lola-Osif/Elist_Sales_Analysis/blob/main/SQL%20Analysis.sql)
