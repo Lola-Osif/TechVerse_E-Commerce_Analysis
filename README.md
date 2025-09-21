@@ -25,14 +25,13 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ## Seasonality
    
-   <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d5122049-e4d2-44c6-95ab-a69a0d726733" />
 
-   <img width="1041" height="589" alt="image" src="https://github.com/user-attachments/assets/89b58f1a-1cb2-4175-aba1-2c135723cbde" />
+   <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/89b58f1a-1cb2-4175-aba1-2c135723cbde" />
 
 
 
 - **Year-over-year monthly analysis show that March, November and December stand out as peak revenue performance periods across all years** with the higest average monthly growth rate reaching 23% in December. This seasonal trend indicates increased  consumer demand during holiday periods,  enhanced by strategic promotional campaigns (including Black Friday deals), and increased market activity during the Q4 festive season.
-- **In contast, the weakest performing months Feburary and October **.
+- **In contrast, the low performing months Feburary and October** with average monthly revenue falling by 25% and 28% .
 -  The seasonal trends reveals customers purchase patterns and can be leveraged to optimize product launches and targeted advertising efforts, thereby driving additional sales.
 -  **Focusing on the peak sales year in 2020, March was the the primary driver of with a 50% surge in sales compared to the previous month**. The uniformity of this trend across all regions suggests that it was driven by the height of the COVID-19 crisis, where restrictions and shifts to remote work environments stimulated increased purchases of electronic devices.
 
