@@ -27,6 +27,9 @@ Within the four year period, the number of orders and sales volume grew by 28% r
    
    <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d5122049-e4d2-44c6-95ab-a69a0d726733" />
 
+   
+  <img width="667" height="366" alt="Screenshot 2025-09-21 at 8 41 08 pm" src="https://github.com/user-attachments/assets/4bb67249-a268-4fd4-b4a0-13e28d836f5a" />
+
 
 - **Year-over-year monthly analysis show that March, November and December stand out as peak revenue performance periods across all years** with the higest average monthly growth rate reaching 23% in December. This seasonal trend indicates increased  consumer demand during holiday periods,  enhanced by strategic promotional campaigns (including Black Friday deals), and increased market activity during the Q4 festive season.
 - **In contast, the weakest performing months Feburary and October **.
