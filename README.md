@@ -25,9 +25,10 @@ Within the four year period, the number of orders and sales volume grew by 28% r
 
 ## Seasonality
 
+   <img width="63" height="38" alt="image" src="https://github.com/user-attachments/assets/e8ecb072-d071-45a0-9f60-265a35ec2aef" />
 
-- **Year-over-year monthly analysis show that November and December stand out as peak revenue performance periods across all years** with monthly growth rates reaching 35% and 33% respectively. This seasonal trend indicates increased  consumer demand during holiday periods,  enhanced by strategic promotional campaigns (including Black Friday deals), and increased market activity during the Q4 festive season.
-- **In contast, the weakest performing months Feburary and October with the lowest drop by 33% and 55% in 2022**.
+- **Year-over-year monthly analysis show that March, November and December stand out as peak revenue performance periods across all years** with the higest average monthly growth rate reaching 23% in December. This seasonal trend indicates increased  consumer demand during holiday periods,  enhanced by strategic promotional campaigns (including Black Friday deals), and increased market activity during the Q4 festive season.
+- **In contast, the weakest performing months Feburary and October **.
 -  The seasonal trends reveals customers purchase patterns and can be leveraged to optimize product launches and targeted advertising efforts, thereby driving additional sales.
 -  **Focusing on the peak sales year in 2020, March was the the primary driver of with a 50% surge in sales compared to the previous month**. The uniformity of this trend across all regions suggests that it was driven by the height of the COVID-19 crisis, where restrictions and shifts to remote work environments stimulated increased purchases of electronic devices.
 
@@ -57,10 +58,10 @@ Within the four year period, the number of orders and sales volume grew by 28% r
   
 
 ## Loyalty Program
-
 To assess the impact of TechVerse's loyalty program, non-loyalty and loyalty members where compared across sales, AOV and the number of repeated purchases.
 - Sales: Non-loyalty members generated more sales revenue from 2019 to 2020 reaching a peak of $788K in September 2020. However, sales from loyalty customers outperformed non-loyalty customers in 2021 and 2022 with a maximum revenue of 508K in December 2021. Although the total sales amount from non-loyalty customers exceed loyalty cusomers , loyalty sales share has risen from 11% to 41% over the four-year period, indicating stronger retention compared to non-loyalty customers.
 
+  <img width="1039" height="530" alt="image" src="https://github.com/user-attachments/assets/74bbdec5-0be9-45e2-8571-5320d6f219a9" />
 
 - AOV: Loyal customers spend increased by 93% from march to Septembr 2019  and remained fairly consistent ($200-$250) despite fluctuations in sales in 2021 and 2022. Contrastly, non-loyalty members show a volume driven trend with spikes corresponding to sales.
 - Both loyalty and Non-loyalty sales  and AOV fall sharply in late (Oct- Dec) 2022, which may reflect broader market changes to pre-pandemic levels
@@ -89,4 +90,4 @@ Based on the analysis, the company should implement the following recommendation
 
 Appendix
 - For more details about the dataset, check out the[ERD](ERD.png)
-- See more of my analysis in [SQL](https://github.com/Lola-Osif/Elist_Sales_Analysis/blob/main/SQL%20Analysis.sql)
+- See more of my data exploration and analysis in Excel and [SQL](https://github.com/Lola-Osif/Elist_Sales_Analysis/blob/main/SQL%20Analysis.sql)
