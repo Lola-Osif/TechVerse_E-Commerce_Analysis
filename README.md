@@ -87,7 +87,7 @@ Based on the analysis, the company should implement the following recommendation
 
 - Evaluating industry benchmarks and investing in logistics to position faster, more reliable delivery as a competitive differentiator. This is particularly relevant given APAC’s status as a prominent manufacturing hub for premium electronic devices, enabling cost-efficient supply chains and quicker time-to-market.
 
-### Augument and monitor Loyalty Program
+### Augment and monitor Loyalty Program
 - With a growing share of loyalty members and an average order value (AOV) steady at around $250, the loyalty program should be continued, though it should be monitored closely and subjected to regular cost–benefit analysis over the next few years.
 - The program’s offerings should be enhanced to provide greater rewards that align with the products most valued by repeat customers.
 
